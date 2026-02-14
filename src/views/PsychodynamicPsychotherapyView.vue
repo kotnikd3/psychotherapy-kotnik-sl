@@ -18,7 +18,7 @@
     <section class="section">
         <div class="container content">
             <h5 class="title is-5 has-text-primary">V psihodinamski psihoterapiji boste za ozaveščanje nezavednih vsebin med drugim počeli:</h5>
-            <p>
+            <div>
                 <ul>
                     <li>
                         <strong>Pripovedovanje o popolnoma vsem, kar vam pride na misel</strong>, vam pomaga, da se s pomočjo terapevta premaknete od misli, katerih se zavedate, k povezanim mislim, katerih se ne zavedate.
@@ -37,7 +37,7 @@
                     </li>
                 </ul>
                 Z ozaveščanje svojega nezavednega boste začeli spoznavati vzorce, ki vam povzročajo težave in se sčasoma naučili novih načinov razmišljanja o sebi, spoprijemanja s stresom ter vzpostavljanja odnosov.
-            </p>
+            </div>
         </div>
     </section>
 
@@ -102,7 +102,7 @@
     <section class="section">
         <div class="container content">
             <h5 class="title is-5 has-text-primary">Ali obstajajo trdni empirični dokazi, da je psihodinamska psihoterapija učinkovita?</h5>
-            <p>
+            <div>
                 Psihodinamska psihoterapija je ena najdlje razvijanih oblik psihoterapije, z več kot stoletno tradicijo teoretskega in kliničnega raziskovanja. Zaradi njenega utemeljenega pristopa jo številni mednarodni zdravstveni sistemi in zavarovalnice priznavajo kot ustrezno obliko psihoterapevtske obravnave, ki je v mnogih državah del programov zdravstvenega zavarovanja. Spodaj je nekaj znanstvenih študij (v angleščini), ki potrjujejo njeno učinkovitost.
                 <br>
                 <ul>
@@ -113,7 +113,7 @@
                     <li>Science Direct: <a href='https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128133736000040?via%3Dihub' target='_blank' rel='noopener noreferrer'>The efficacy of psychodynamic psychotherapy: an up-to-date review</a>
                     </li>
                 </ul>
-            </p>
+            </div>
         </div>
     </section>
 </template>
