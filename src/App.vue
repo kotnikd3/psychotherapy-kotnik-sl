@@ -26,7 +26,12 @@
                     <RouterLink class="navbar-item" :to="{ name: 'psychodynamic_psychotherapy' }" @click="isMenuActive = false;">Psihodinamska psihoterapija</RouterLink>
                     <RouterLink class="navbar-item" :to="{ name: 'denis_kotnik' }" @click="isMenuActive = false;">Denis Kotnik</RouterLink>
                     <div class="navbar-item">
-                        <a class="button is-small is-primary" href="https://psychotherapy-kotnik.com" target="_blank" rel="noopener noreferrer">English</a>
+                        <a class="button is-primary is-outlined is-small" href="https://psychotherapy-kotnik.com" target="_blank" rel="noopener noreferrer">
+                            <span class="icon">
+                                <img alt="United States" src="https://purecatamphetamine.github.io/country-flag-icons/3x2/GB.svg"/>
+                            </span>
+                            <span>English</span>
+                        </a>
                     </div>
                 </div>
             </div>
