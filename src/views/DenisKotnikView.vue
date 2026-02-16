@@ -16,12 +16,10 @@
                     </div>
 
                     <div class="block">
-                        <h5 class="title is-5 has-text-warning">O mojem strokovnem ozadju</h5>
                         <p>Sem član Evropskega združenja psihoanalitičnih pristopov Slovenija (EZPPS) in se izobražujem z namenom pridobitve diplom pri Evropski konfederaciji psihoanalitičnih in psihodinamskih psihoterapij (ECPPP) ter Evropski krovni zvezi za psihoterapijo (EAP).<br><br>Izobraževanje opravljam na Inštitutu za psihodinamsko psihoterapijo v Ljubljani, kjer sem v okviru štiriletnega študija pridobil obsežno teoretično znanje s področja psihodinamske in telesno-orientirane psihoterapije.<br><br>Pomemben del mojega strokovnega razvoja predstavlja tudi osebna izkušnja: več kot 230 ur individualne psihodinamske psihoterapije z izbrano psihodinamsko psihoterapevtko in več kot 360 ur izkušnje v zaprti psihodinamski skupini (triletni proces) pod vodstvom psihodinamskega psihoterapevta.</p>
                     </div>
 
                     <div class="block">
-                        <h5 class="title is-5 has-text-primary">O moji osebni poti</h5>
                         <p>Moje zanimanje je že od nekdaj usmerjeno v tisto, kar ni takoj vidno – v vprašanja, kako ljudje razmišljamo, zakaj se vedemo, kot se vedemo, in kako se oblikujejo notranji konflikti. Po zaključku magistrskega študija s področja umetne inteligence na Univerzi v Ljubljani me je pot vodila v psihoanalizo, filozofijo in razmišljanje avtorjev, kot so Sokrat, René Descartes, Karl Marx, Sigmund Freud, Jacques Lacan, Alain Badiou ... ki so zaznamovali razumevanje subjekta, želje in nezavednega.<br><br>Sčasoma se je to zanimanje preoblikovalo v odločitev za psihoterapevtsko delo – ne kot intelektualni projekt, temveč kot živ odnos z drugim človekom.</p>
                     </div>
                 </div>
