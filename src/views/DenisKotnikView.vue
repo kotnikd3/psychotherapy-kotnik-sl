@@ -20,7 +20,7 @@
                     </div>
 
                     <div class="block">
-                        <p>Moje zanimanje je že od nekdaj usmerjeno v tisto, kar ni takoj vidno – v vprašanja, kako ljudje razmišljamo, zakaj se vedemo, kot se vedemo, in kako se oblikujejo notranji konflikti. Po zaključku magistrskega študija s področja umetne inteligence na Univerzi v Ljubljani me je pot vodila v psihoanalizo, filozofijo in razmišljanje avtorjev, kot so Sokrat, René Descartes, Karl Marx, Sigmund Freud, Jacques Lacan, Alain Badiou ... ki so zaznamovali razumevanje subjekta, želje in nezavednega.<br><br>Sčasoma se je to zanimanje preoblikovalo v odločitev za psihoterapevtsko delo – ne kot intelektualni projekt, temveč kot živ odnos z drugim človekom.</p>
+                        <p>Moje zanimanje je že od nekdaj usmerjeno v tisto, kar ni takoj vidno – v vprašanja, kako ljudje razmišljamo, zakaj se vedemo, kot se vedemo, in kako se oblikujejo notranji konflikti. Po zaključku magistrskega študija s področja strojnega učenja na Fakulteti za računalništvo in informatiko Univerze v Ljubljani me je pot vodila v psihoanalizo, filozofijo in razmišljanje avtorjev, kot so Sokrat, René Descartes, Karl Marx, Sigmund Freud, Jacques Lacan, Alain Badiou ... ki so zaznamovali razumevanje subjekta, želje in nezavednega.<br><br>Sčasoma se je to zanimanje preoblikovalo v odločitev za psihoterapevtsko delo – ne kot intelektualni projekt, temveč kot živ odnos z drugim človekom.</p>
                     </div>
                 </div>
             </div>
