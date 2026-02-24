@@ -15,26 +15,45 @@
         <script type="application/ld+json">
             {
                 "@context": "https://schema.org",
-                "@type": "LocalBusiness",
-                "name": "Psihoterapija Kotnik, Trebnje",
-                "description": "Psihoterapija Kotnik v Trebnjem nudi psihodinamsko psihoterapijo, usmerjeno v nezavedne vzorce, pretekle izkušnje in razreševanje notranjih konfliktov.",
-                "url": "https://psihoterapija-kotnik.si",
-                "image": "https://psihoterapija-kotnik.si/static/logo.png",
-                "telephone": "+31 6 28865682",
-                "address": {
-                    "@type": "PostalAddress",
-                    "streetAddress": "Jezero 3A",
-                    "addressLocality": "Trebnje",
-                    "postalCode": "8210",
-                    "addressCountry": "SL"
-                },
-                "openingHours": "Mo-Fr 09:00-17:00",
-                "priceRange": "50€",
-                "founder": {
-                    "@type": "Person",
-                    "name": "Denis Kotnik",
-                    "jobTitle": "Psihoterapevt"
-                }
+                "@graph": [
+                    {
+                        "@type": "Person",
+                        "@id": "https://psihoterapija-kotnik.si/denis-kotnik",
+                        "name": "Denis Kotnik",
+                        "description": "Denis Kotnik je psihodinamski psihoterapevt iz Trebnjega.",
+                        "jobTitle": "Psychotherapeut",
+                        "image": "https://psihoterapija-kotnik.si/static/denis_kotnik.webp",
+                        "url": "https://psihoterapija-kotnik.si",
+                        "sameAs": [
+                            "https://www.linkedin.com/in/denis-kotnik/",
+                            "https://www.facebook.com/kotnikd3"
+                        ],
+                        "worksFor": {
+                            "@id": "https://psihoterapija-kotnik.si"
+                        }
+                    },
+                    {
+                        "@type": "MedicalBusiness",
+                        "@id": "https://psihoterapija-kotnik.si",
+                        "name": "Psihoterapija Kotnik, Trebnje",
+                        "description": "Psihoterapija Kotnik v Trebnjem nudi psihodinamsko psihoterapijo, usmerjeno v nezavedne vzorce, pretekle izkušnje in razreševanje notranjih konfliktov.",
+                        "image": "https://psihoterapija-kotnik.si/static/denis_kotnik.webp",
+                        "url": "https://psihoterapija-kotnik.si",
+                        "telephone": "+31 6 28865682",
+                        "priceRange": "€50",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "streetAddress": "Jezero 3A",
+                            "addressLocality": "Trebnje",
+                            "postalCode": "8210",
+                            "addressCountry": "SL"
+                        },
+                        "openingHours": "Mo-Fr 09:00-17:00",
+                        "founder": {
+                            "@id": "https://psihoterapija-kotnik.si/denis-kotnik"
+                        }
+                    }
+                ]
             }
         </script>
 

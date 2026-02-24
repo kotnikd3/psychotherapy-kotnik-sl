@@ -6,8 +6,8 @@
         </figure>
         <div class="hero-body">
             <div class="container">
-                <h2 class="title is-size-5-mobile is-size-3-tablet has-text-light">Psihoterapija Kotnik</h2>
-                <h3 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Trebnje</h3>
+                <h1 class="title is-size-5-mobile is-size-3-tablet has-text-light">Psihoterapija Kotnik</h1>
+                <h2 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Trebnje</h2>
             </div>
         </div>
     </section>
@@ -16,7 +16,7 @@
         <div class="container">
             <div class="columns is-vcentered">
                 <div class="column is-golden-main">
-                    <h5 class="title is-4 has-text-primary">Dobrodošli!</h5>
+                    <h3 class="title is-4 has-text-primary">Dobrodošli!</h3>
                     <p>
                         Moje ime je Denis in nudim <b>psihodinamsko psihoterapijo</b> v Leeuwardnu na Nizozemskem, občasno tudi v Trebnjem v Sloveniji ter online. Ponujam miren in zaupen prostor, kjer si lahko vzamemo čas ter skupaj raziskujemo globlje plasti vašega doživljanja, misli, čustev in odnosov.<br><br>Psihodinamska psihoterapija je namenjena vsem, ki se počutijo ujete, preobremenjene ali odtujene — ne glede na to, ali je to vaš prvi stik s psihoterapijo ali pa ste že imeli izkušnje z njo. Ljudje pogosto prihajajo s temami, kot so tesnoba, potrtost, notranja napetost, nizka samopodoba, težave v odnosih ali občutek, da nekaj ni v redu.<br><br>Skupaj bomo odkrivali ponavljajoče se vzorce, pristno izražanje čustvev in nezavedne procese, ki lahko vplivajo na vaše življenje. Skozi ta proces mnogi pridobijo globlje razumevanje sebe, čustveno olajšanje ter možnost bolj pristnih in izpolnjujočih odnosov do sebe in drugih.
                     </p>
@@ -45,7 +45,7 @@
                     </figure>
                 </div>
                 <div class="column is-golden-main content">
-                    <h5 class="title is-5 has-text-primary">V varnem terapevtskem prostoru lahko skupaj razrešujeva:</h5>
+                    <h4 class="title is-5 has-text-primary">V varnem terapevtskem prostoru lahko skupaj razrešujeva:</h4>
                     <ul>
                         <li>depresijo, anksioznost in panične napade</li>
                         <li>pretirano zaskrbljenost, preobremenjenost in vztrajno tesnobo</li>

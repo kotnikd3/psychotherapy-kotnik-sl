@@ -7,7 +7,7 @@
                 </div>
                 <div class="column is-golden-main">
                     <div class="block">
-                        <h5 class="title is-5 has-text-primary">O meni</h5>
+                        <h3 class="title is-5 has-text-primary">O meni</h3>
                         <p>
                             Moje ime je Denis Kotnik. Sem specializant psihodinamske psihoterapije, ki deluje pod redno supervizijo psihodinamskega in psihoanalitičnega psihoterapevta ter psihoanalitika. V terapevtskem delu ustvarjam varen, zanesljiv prostor, kjer je mogoče raziskovati notranje doživljanje, odnose in ponavljajoče se vzorce, pogosto tiste, ki delujejo iz ozadja našega zavedanja.
                             <br><br>
@@ -39,7 +39,7 @@
 
     <section class="section">
         <div class="container">
-            <h5 class="title is-5 has-text-primary">Povezave</h5>
+            <h3 class="title is-5 has-text-primary">Povezave</h3>
             <div class="columns is-multiline is-centered has-text-centered is-mobile is-vcentered">
                 <div class="column is-2-desktop is-one-third-mobile">
                     <figure>
