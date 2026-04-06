@@ -60,12 +60,6 @@
         </div>
     </section>
 
-    <div class="container">
-        <div class="notification is-info has-text-centered is-size-4 p-2 mb-4">
-            <p>Z delom v okviru psihoterapevtske prakse bom pričel aprila 2026.</p>
-        </div>
-    </div>
-
     <footer class="footer">
         <div class="container">
             <div class="columns is-mobile is-multiline is-centered">
@@ -87,14 +81,6 @@
                                 </span>
                                 <span>+31 628 865 682</span>
                             </a>
-                        </li>
-                        <li>
-                            <span class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-gavel" />
-                                </span>
-                                <span>KVK številka: v pridobivanju</span>
-                            </span>
                         </li>
                     </ul>
                 </div>

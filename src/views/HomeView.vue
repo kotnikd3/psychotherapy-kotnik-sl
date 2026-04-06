@@ -74,10 +74,10 @@
     <section class="section">
         <div class="container">
             <div class="columns is-centered has-text-centered">
-                <div class="column is-one-third">
+                <div class="column is-half">
                     <div class="card">
                         <header class="card-header">
-                            <p class="card-header-title is-centered">Uvodni pogovor</p>
+                            <p class="card-header-title is-centered">Uvodni pogovor (50 min)</p>
                         </header>
                         <div class="card-content">
                             <p class="price">
@@ -89,10 +89,10 @@
                         </div>
                     </div>
                 </div>
-                <div class="column is-one-third">
+                <div class="column is-half">
                     <div class="card">
                         <header class="card-header">
-                            <p class="card-header-title is-centered">Psihodinamska psihoterapija enkrat tedensko</p>
+                            <p class="card-header-title is-centered">Psihodinamska psihoterapija (50 min)</p>
                         </header>
                         <div class="card-content">
                             <p class="price">
@@ -103,32 +103,6 @@
                             </p>
                         </div>
                     </div>
-                </div>
-                <div class="column is-one-third">
-                    <div class="card">
-                        <header class="card-header">
-                            <p class="card-header-title is-centered">Psihodinamska psihoterapija dvakrat tedensko</p>
-                        </header>
-                        <div class="card-content">
-                            <p class="price">
-                                <span class="currency">
-                                    <font-awesome-icon icon="fa-solid fa-euro-sign" />
-                                </span>
-                                <span class="amount">40</span>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="columns has-text-centered is-mobile is-centered">
-                <div class="column is-half-mobile is-narrow-tablet">
-                    <p class="title has-text-primary"><font-awesome-icon icon="fa-regular fa-clock" /></p>
-                    <p>Trajanje posamezne ure je <b>50 minut</b>.</p>
-                </div>
-                <div class="column is-half-mobile is-narrow-tablet">
-                    <p class="title has-text-primary"><font-awesome-icon icon="fa-solid fa-language" /></p>
-                    <p>Psihoterapija poteka v <b>slovenskem</b> ali <b>angleškem</b> jeziku.</p>
                 </div>
             </div>
         </div>
