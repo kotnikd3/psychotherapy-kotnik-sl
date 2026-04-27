@@ -87,14 +87,14 @@
                 <div class="column is-half-mobile is-narrow">
                     <h6 class="title is-6 has-text-primary"><strong>Lokacije dela</strong></h6>
                     <ul>
-                        <li>
+                        <!-- <li>
                             <a href="https://maps.app.goo.gl/u84FRsYXBAmzNbn17" target="_blank" rel="noopener noreferrer" class="icon-text">
                                 <span class="icon">
                                     <font-awesome-icon icon="fa-solid fa-location-dot" />
                                 </span>
                                 <span>Jezero 3A<br>8210 Trebnje<br>Slovenia</span>
                             </a>
-                        </li>
+                        </li> -->
                         <li>
                             <div class="icon-text">
                                 <span class="icon">
