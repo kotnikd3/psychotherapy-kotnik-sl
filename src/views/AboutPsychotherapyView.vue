@@ -5,7 +5,7 @@
                 <div class="column is-golden-main content">
                     <h3 class="title is-5 has-text-primary">Kaj je psihodinamska psihoterapija?</h3>
                     <p>
-                        Psihodinamska psihoterapija je <b>zdravljenje s pogovorom</b>, ki temelji na ideji, da lahko nezavedne misli in občutki povzročajo težave, kot so anksioznost, depresija, slaba samopodoba in težave v odnosih. Eden od načinov kako se spoprijemamo z bolečimi ali težkimi mislimi in občutki je, da o njih ne razmišljamo, da jih ignoriramo – torej da jih potisnemo v <strong>nezavedno</strong>. Toda tudi če o njih ne razmišljamo, nezavedne misli in občutki še vedno vplivajo na to, kako mislimo, čutimo in se vedemo. Na primer, morda vam je težko čutiti jezo do nekoga, ki ga imate radi, saj menite, da tega ne bi smeli čutiti. Kljub temu pa lahko ta občutja še naprej vplivajo na vaš odnos. Psihodinamska psihoterapija omogoča prostor za razvoj novih, bolj zdravih načinov soočanja z omenjenimi težavami.
+                        Psihodinamska psihoterapija je <b>zdravljenje s pogovorom</b>, ki temelji na ideji, da lahko nezavedne misli in občutki povzročajo težave, kot so anksioznost, depresija, slaba samopodoba in težave v odnosih. Eden od načinov kako se spoprijemamo z bolečimi ali težkimi mislimi in občutki je, da o njih ne razmišljamo, da jih ignoriramo — torej da jih potisnemo v <strong>nezavedno</strong>. Toda tudi če o njih ne razmišljamo, nezavedne misli in občutki še vedno vplivajo na to, kako mislimo, čutimo in se vedemo. Na primer, morda vam je težko čutiti jezo do nekoga, ki ga imate radi, saj menite, da tega ne bi smeli čutiti. Kljub temu pa lahko ta občutja še naprej vplivajo na vaš odnos. Psihodinamska psihoterapija omogoča prostor za razvoj novih, bolj zdravih načinov soočanja z omenjenimi težavami.
                     </p>
                 </div>
                 <div class="column is-golden-side has-text-centered">
@@ -36,6 +36,7 @@
                         <strong>Pripovedovanje o življenju, zlasti o ljudeh in dogodkih iz vašega otroštva</strong>, vam pomaga, da se spomnite zgodnjih misli in občutkov. To je pomembno, saj so lahko občutki, ki jih imate do ljudi in situacij v vašem trenutnem življenju, povezani z občutki, ki ste jih imeli kot otrok. Poleg tega lahko razvoj novih načinov razmišljanja o svojem življenju in o tem, kako ste postali takšni, kot ste, privede do sprememb v načinu, kako razmišljate in doživljate sebe in druge.
                     </li>
                 </ul>
+                <br>
                 Z ozaveščanje svojega nezavednega boste začeli spoznavati vzorce, ki vam povzročajo težave in se sčasoma naučili novih načinov razmišljanja o sebi, spoprijemanja s stresom ter vzpostavljanja odnosov.
             </div>
         </div>
@@ -54,7 +55,7 @@
                         <p>Psihodinamska psihoterapija je lahko kratkoročna pri specifičnih težavah, kot so panični napadi, ali dolgoročna pri težavah s samopodobo, odnosi in spoprijemanjem s stresom. Za razvoj teh vzorcev ste potrebovali dolgo časa, zato lahko tudi sprememba tega terja čas. Dolgoročna psihoterapija lahko traja leto ali dlje. Gre za »odprto« obliko terapije, kar pomeni, da traja toliko časa, kolikor je potrebno za dosego ciljev, ki jih določita s terapevtom. Z dolgoročnimi cilji lahko skupaj delata hkrati tudi na kratkoročnih ciljih, npr. obvladovanju stresa v vsakdanjem življenju.</p>
                     </div>
                     <div class="block">
-                        <h3 class="title is-5 has-text-primary">Zakaj moram prihajati enkrat ali dvakrat na teden?</h3>
+                        <h3 class="title is-5 has-text-primary">Zakaj moram prihajati vsak teden?</h3>
                         <p>Redno prihajanje na psihoterapijo vam bo pomagalo pri ozaveščanju nezavednih misli in občutkov, ki ležijo v ozadju številnih težav. Če prihajate redkeje, boste verjetno večino časa porabili le za poročanje o tem, kaj se je zgodilo od zadnje seanse.</p>
                     </div>
                     <div class="block">

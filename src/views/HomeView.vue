@@ -6,8 +6,8 @@
         </figure>
         <div class="hero-body">
             <div class="container">
-                <h1 class="title is-size-5-mobile is-size-3-tablet has-text-light">Psihoterapija Kotnik</h1>
-                <h2 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Trebnje</h2>
+                <h1 class="title is-size-5-mobile is-size-3-tablet has-text-light">Online psihoterapija</h1>
+                <h2 class="subtitle is-size-6-mobile is-size-4-tablet has-text-light">Psihoterapija Kotnik</h2>
             </div>
         </div>
     </section>
@@ -18,10 +18,14 @@
                 <div class="column is-golden-main">
                     <h3 class="title is-4 has-text-primary">Dobrodošli!</h3>
                     <p>
-                        Moje ime je Denis in nudim <b>psihodinamsko psihoterapijo</b> v Leeuwardnu na Nizozemskem, občasno tudi v Trebnjem v Sloveniji ter online. Ponujam miren in zaupen prostor, kjer si lahko vzamemo čas ter skupaj raziskujemo globlje plasti vašega doživljanja, misli, čustev in odnosov.<br><br>Psihodinamska psihoterapija je namenjena vsem, ki se počutijo ujete, preobremenjene ali odtujene — ne glede na to, ali je to vaš prvi stik s psihoterapijo ali pa ste že imeli izkušnje z njo. Ljudje pogosto prihajajo s temami, kot so tesnoba, potrtost, notranja napetost, nizka samopodoba, težave v odnosih ali občutek, da nekaj ni v redu.<br><br>Skupaj bomo odkrivali ponavljajoče se vzorce, pristno izražanje čustvev in nezavedne procese, ki lahko vplivajo na vaše življenje. Skozi ta proces mnogi pridobijo globlje razumevanje sebe, čustveno olajšanje ter možnost bolj pristnih in izpolnjujočih odnosov do sebe in drugih.
+                        Moje ime je Denis in nudim online <b>psihodinamsko psihoterapijo</b>, občasno tudi v Trebnjem v Sloveniji. V proces vključujem tudi telesne tehnike, saj so čustva in impulzi vedno prisotni tudi v telesu. Kombinacija psihoanalitičnega razumevanja in telesnega dela omogoča, da so spremembe trajne in da se zgodijo tukaj in zdaj — v varnem, sprejemajočem odnosu.
+                        <br><br>
+                        Psihodinamska psihoterapija je namenjena vsem, ki se počutijo ujete, preobremenjene ali odtujene — ne glede na to, ali je to vaš prvi stik s psihoterapijo ali pa ste že imeli izkušnje z njo. Ljudje pogosto prihajajo s temami, kot so tesnoba, potrtost, notranja napetost, nizka samopodoba, težave v odnosih ali občutek, da nekaj ni v redu.
+                        <br><br>
+                        Skupaj bomo odkrivali ponavljajoče se vzorce, pristno izražanje čustvev in nezavedne procese, ki lahko vplivajo na vaše življenje. Skozi ta proces mnogi pridobijo globlje razumevanje sebe, čustveno olajšanje ter možnost bolj pristnih in izpolnjujočih odnosov do sebe in drugih.
                     </p>
                     <div class="has-text-centered pt-6">
-                        <RouterLink class="button is-primary is-outlined" :to="{ name: 'psychodynamic_psychotherapy' }">
+                        <RouterLink class="button is-primary is-outlined" :to="{ name: 'about_psychotherapy' }">
                             <p>Več o psihoterapiji</p>
                         </RouterLink>
                     </div>
@@ -29,7 +33,7 @@
                 <div class="column is-golden-side has-text-centered">
                     <img class="img-denis-kotnik" src="@/assets/images/denis_1.webp" alt="Denis_Kotnik_1" style="width: 70%;">
                     <div class="pt-2">
-                        <RouterLink class="button is-warning is-outlined" :to="{ name: 'denis_kotnik' }">Več o meni</RouterLink>
+                        <RouterLink class="button is-warning is-outlined" :to="{ name: 'about_me' }">Več o meni</RouterLink>
                     </div>
                 </div>
             </div>
@@ -66,7 +70,7 @@
     </section>
     <section class="section">
         <div class="container">
-            <p class="is-italic has-text-warning is-size-5 has-text-centered">
+            <p class="is-italic has-text-warning has-text-centered">
                 "Najdaljša je pot, ki te pripelje najbližje k sebi,<br>in najtežja je vaja, ki rodi najpreprostejši napev."<br><br>— Rabindranath Tagore
             </p>
         </div>
@@ -135,16 +139,15 @@ export default {
     .price {
         display: inline-flex;
         align-items: flex-start;
-        font-weight: 700;
     }
 
     .price .currency {
-        font-size: 0.90em;
+        font-size: 0.8em;
         line-height: 1;
     }
 
     .price .amount {
-        font-size: 2.5rem;
+        font-size: 2rem;
         line-height: 1;
     }
 

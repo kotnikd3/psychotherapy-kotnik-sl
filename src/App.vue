@@ -23,8 +23,8 @@
 
             <div id="navMenu" :class="['navbar-menu', { 'is-active' : isMenuActive }]">
                 <div class="navbar-end">
-                    <RouterLink class="navbar-item" :to="{ name: 'psychodynamic_psychotherapy' }" @click="isMenuActive = false;">Psihodinamska psihoterapija</RouterLink>
-                    <RouterLink class="navbar-item" :to="{ name: 'denis_kotnik' }" @click="isMenuActive = false;">Denis Kotnik</RouterLink>
+                    <RouterLink class="navbar-item" :to="{ name: 'about_psychotherapy' }" @click="isMenuActive = false;">O psihoterapiji</RouterLink>
+                    <RouterLink class="navbar-item" :to="{ name: 'about_me' }" @click="isMenuActive = false;">O meni</RouterLink>
                     <div class="navbar-item">
                         <a class="button is-primary is-outlined is-small" href="https://psychotherapy-kotnik.com" target="_blank" rel="noopener noreferrer">
                             <span class="icon">
@@ -62,53 +62,8 @@
 
     <footer class="footer">
         <div class="container">
-            <div class="columns is-mobile is-multiline is-centered">
-                <div class="column is-half-mobile is-narrow">
-                    <h6 class="title is-6 has-text-primary"><strong>Kontakt</strong></h6>
-                    <ul>
-                        <li>
-                            <a href="mailto:info@psihoterapija-kotnik.si" class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-regular fa-envelope" />
-                                </span>
-                                <span>info@psihoterapija-kotnik.si</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="tel:+31628865682" class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-phone" />
-                                </span>
-                                <span>+31 628 865 682</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="column is-half-mobile is-narrow">
-                    <h6 class="title is-6 has-text-primary"><strong>Lokacije dela</strong></h6>
-                    <ul>
-                        <!-- <li>
-                            <a href="https://maps.app.goo.gl/u84FRsYXBAmzNbn17" target="_blank" rel="noopener noreferrer" class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-location-dot" />
-                                </span>
-                                <span>Jezero 3A<br>8210 Trebnje<br>Slovenia</span>
-                            </a>
-                        </li> -->
-                        <li>
-                            <div class="icon-text">
-                                <span class="icon">
-                                    <font-awesome-icon icon="fa-solid fa-location-dot" />
-                                </span>
-                                <span>online</span>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <div class="has-text-centered pt-5 has-text-primary">
-                <p><span>Psihoterapija Kotnik</span> <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
-				<p style="font-size: x-small;"><i><a href="https://www.kotnik.si" target="_blank">Ustvaril kotnik.si</a></i></p>
+            <div class="has-text-centered has-text-primary">
+                <p><span>Online psihoterapija | Psihoterapija Kotnik</span> <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
 			</div>
         </div>
     </footer>
