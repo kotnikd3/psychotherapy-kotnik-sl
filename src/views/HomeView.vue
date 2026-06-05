@@ -2,7 +2,7 @@
     <!-- Hero -->
     <section class="hero is-medium">
         <figure>
-            <img src="@/assets/images/sea_2.webp"  alt="Home_image" class="hero-bg-img"/>
+            <img src="@/assets/images/sea_1.webp"  alt="Home_image" class="hero-bg-img"/>
         </figure>
         <div class="hero-body">
             <div class="container">
@@ -24,15 +24,13 @@
                         <br><br>
                         Skupaj bomo odkrivali ponavljajoče se vzorce, pristno izražanje čustvev in nezavedne procese, ki lahko vplivajo na vaše življenje. Skozi ta proces mnogi pridobijo globlje razumevanje sebe, čustveno olajšanje ter možnost bolj pristnih in izpolnjujočih odnosov do sebe in drugih.
                     </p>
-                    <div class="has-text-centered pt-6">
-                        <RouterLink class="button is-primary is-outlined" :to="{ name: 'about_psychotherapy' }">
-                            <p>Več o psihoterapiji</p>
-                        </RouterLink>
+                    <div class="has-text-centered py-5">
+                        <RouterLink class="button is-primary is-outlined" :to="{ name: 'about_psychotherapy' }">Več o psihoterapiji</RouterLink>
                     </div>
                 </div>
                 <div class="column is-golden-side has-text-centered">
                     <img class="img-denis-kotnik" src="@/assets/images/denis_1.webp" alt="Denis_Kotnik_1" style="width: 70%;">
-                    <div class="pt-2">
+                    <div class="pt-5">
                         <RouterLink class="button is-warning is-outlined" :to="{ name: 'about_me' }">Več o meni</RouterLink>
                     </div>
                 </div>
@@ -133,7 +131,7 @@ export default {
         width: 100%;
         height: 100%;
         object-fit: cover;
-        object-position: 100% 78%;
+        object-position: 100% 52%;
     }
 
     .price {
