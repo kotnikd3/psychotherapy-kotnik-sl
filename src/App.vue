@@ -62,6 +62,11 @@
 
     <footer class="footer">
         <div class="container">
+            <div class="columns is-centered is-mobile">
+                <div class="column is-3-mobile is-2-tablet is-1-desktop">
+                    <img src="@/assets/images/logo.webp" alt="psychotherapy_kotnik_logo">
+                </div>
+            </div>
             <div class="has-text-centered has-text-primary">
                 <p><span>Online psihoterapija | Psihoterapija Kotnik</span> <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
 			</div>
