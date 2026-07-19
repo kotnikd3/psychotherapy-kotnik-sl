@@ -69,7 +69,7 @@
                 },
                 notificationSuccess: {
                     show: false,
-                    message: "E-poštno sporočilo poslano.",
+                    message: "E-poštno sporočilo poslano. Če mojega odgovora v naslednjih dneh ne prejmete, vas prosim, da preverite tudi mapo z vsiljeno pošto (SPAM), saj se lahko zgodi, da se sporočilo pomotoma znajde tam.",
                 },
                 notificationError: {
                     show: false,

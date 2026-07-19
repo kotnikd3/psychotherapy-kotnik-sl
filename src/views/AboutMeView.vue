@@ -14,7 +14,7 @@
                     </div>
 
                     <div class="block">
-                        <p>Sem član Evropskega združenja psihoanalitičnih pristopov Slovenija (EZPPS) in se izobražujem z namenom pridobitve diplom pri Evropski konfederaciji psihoanalitičnih in psihodinamskih psihoterapij (ECPPP) ter Evropski krovni zvezi za psihoterapijo (EAP).<br><br>Izobraževanje opravljam na Inštitutu za psihodinamsko psihoterapijo v Ljubljani, kjer sem v okviru štiriletnega študija pridobil obsežno teoretično znanje s področja psihodinamske in telesno-orientirane psihoterapije.<br><br>Pomemben del mojega strokovnega razvoja predstavlja tudi osebna izkušnja: več kot 240 ur individualne psihodinamske psihoterapije z izbrano psihodinamsko psihoterapevtko in več kot 360 ur izkušnje v zaprti psihodinamski skupini (triletni proces) pod vodstvom psihodinamskega psihoterapevta.</p>
+                        <p>Sem član Evropskega združenja psihoanalitičnih pristopov Slovenija (EZPPS) in se izobražujem z namenom pridobitve diplom pri Evropski konfederaciji psihoanalitičnih in psihodinamskih psihoterapij (ECPPP) ter Evropski krovni zvezi za psihoterapijo (EAP).<br><br>Izobraževanje opravljam na Inštitutu za psihodinamsko psihoterapijo v Ljubljani, kjer sem v okviru štiriletnega študija pridobil obsežno teoretično znanje s področja psihodinamske in telesno-orientirane psihoterapije.<br><br>Pomemben del mojega strokovnega razvoja predstavlja tudi osebna izkušnja: več kot 250 ur individualne psihodinamske psihoterapije z izbrano psihodinamsko psihoterapevtko in več kot 360 ur izkušnje v zaprti psihodinamski skupini (triletni proces) pod vodstvom psihodinamskega psihoterapevta.</p>
                     </div>
 
                     <div class="block">
