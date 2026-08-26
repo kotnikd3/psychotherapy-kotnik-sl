@@ -146,7 +146,11 @@
                 </div>
             </div>
 
-            <div class="has-text-centered has-text-primary">
+            <p class="has-text-centered has-text-primary is-size-7 is-italic">
+                Zgornji umetnini: In 't Gein bij Abcoude (Willem Roelofs) in Wanderer above the Sea of Fog (Caspar David Friedrich)
+            </p>
+            
+            <div class="has-text-centered has-text-primary mt-3">
                 <p><span>Psihoterapija Denis Kotnik</span> <font-awesome-icon icon="fa-regular fa-copyright" /> 2026</p>
 			</div>
         </div>
