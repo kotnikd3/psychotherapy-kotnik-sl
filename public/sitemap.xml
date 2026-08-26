@@ -2,17 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://psihoterapija-kotnik.si/</loc>
-        <lastmod>2026-05-16T00:00:00+01:00</lastmod>
+        <lastmod>2026-08-26T00:00:00+01:00</lastmod>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://psihoterapija-kotnik.si/o-psihoterapiji</loc>
-        <lastmod>2026-05-16T00:00:00+01:00</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://psihoterapija-kotnik.si/o-meni</loc>
-        <lastmod>2026-05-16T00:00:00+01:00</lastmod>
-        <priority>0.9</priority>
+        <lastmod>2026-08-26T00:00:00+01:00</lastmod>
+        <priority>0.7</priority>
     </url>
 </urlset>

@@ -1,7 +1,7 @@
 {
   "name": "psihoterapija-kotnik",
   "version": "1.0.0",
-  "description": "Psihoterapija Kotnik spletna stran",
+  "description": "Psihoterapija Denis Kotnik spletna stran",
   "author": "Denis Kotnik",
   "license": "copyright",
   "private": false,
@@ -18,8 +18,7 @@
     "spletna stran",
     "psihoterapija",
     "denis",
-    "kotnik",
-    "online"
+    "kotnik"
   ],
   "scripts": {
     "dev": "vite",
