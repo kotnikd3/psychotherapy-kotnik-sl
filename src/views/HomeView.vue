@@ -12,7 +12,7 @@
     </section>
 
     <section class="section">
-        <div class="container">
+        <div class="container my-5">
             <h3 class="title is-4 has-text-primary">Dobrodošli!</h3>
             <p>
                 Moje ime je Denis in nudim <b>psihodinamsko psihoterapijo</b> online in v Trebnjem. V proces vključujem tudi telesne tehnike, saj so čustva in impulzi vedno prisotni tudi v telesu. Kombinacija psihoanalitičnega razumevanja in telesnega dela omogoča, da so spremembe trajne in da se zgodijo tukaj in zdaj — v varnem, sprejemajočem odnosu.
@@ -21,14 +21,14 @@
                 <br><br>
                 Skupaj bomo odkrivali ponavljajoče se vzorce, pristno izražanje čustvev in nezavedne procese, ki lahko vplivajo na vaše življenje. Skozi ta proces mnogi pridobijo globlje razumevanje sebe, čustveno olajšanje ter možnost bolj pristnih in izpolnjujočih odnosov do sebe in drugih.
             </p>
-            <div class="has-text-centered pt-5">
+            <div class="has-text-centered pt-6">
                 <RouterLink class="button is-warning is-outlined" :to="{ name: 'about_psychotherapy' }">Več o psihoterapiji</RouterLink>
             </div>
         </div>
     </section>
 
     <section class="section custom-color">
-        <div class="container">
+        <div class="container my-5">
             <div class="columns is-vcentered">
                 <div class="column is-golden-side has-text-centered">
                     <figure class="image">
@@ -38,18 +38,18 @@
                 <div class="column is-golden-main content">
                     <h4 class="title is-5 has-text-primary">V varnem terapevtskem prostoru lahko skupaj razrešujeva:</h4>
                     <ul>
-                        <li>depresijo, anksioznost in panične napade</li>
-                        <li>pretirano zaskrbljenost, preobremenjenost in vztrajno tesnobo</li>
-                        <li>občutke krivde, sramu, strahu in notranje praznine</li>
-                        <li>težave v medosebnih odnosih, partnerskih odnosih, odnosih na delovnem mestu in strah pred odnosi</li>
-                        <li>izgubo pomembne osebe in proces žalovanja</li>
-                        <li>stres v vsakdanjem življenju in službi, nespečnost ter kronično utrujenost</li>
-                        <li>duševne motnje in motnje osebnosti</li>
-                        <li>težave z jezo in agresijo</li>
-                        <li>težave z izgorelostjo, zasvojenostjo in odvisniškimi vedenji</li>
-                        <li>anoreksijo, bulimijo in druge motnje hranjenja</li>
-                        <li>slabo samopodobo, občutke manjvrednosti in pomanjkanje smisla v življenju</li>
-                        <li>obsesivno-kompulzivne motnje, motnje identitete in druge psihosomatske težave</li>
+                        <li>depresijo, anksioznost in panične napade,</li>
+                        <li>pretirano zaskrbljenost, preobremenjenost in vztrajno tesnobo,</li>
+                        <li>občutke krivde, sramu, strahu in notranje praznine,</li>
+                        <li>težave v medosebnih odnosih, partnerskih odnosih, odnosih na delovnem mestu in strah pred odnosi,</li>
+                        <li>izgubo pomembne osebe in proces žalovanja,</li>
+                        <li>stres v vsakdanjem življenju in službi, nespečnost ter kronično utrujenost,</li>
+                        <li>duševne motnje in motnje osebnosti,</li>
+                        <li>težave z jezo in agresijo,</li>
+                        <li>težave z izgorelostjo, zasvojenostjo in odvisniškimi vedenji,</li>
+                        <li>anoreksijo, bulimijo in druge motnje hranjenja,</li>
+                        <li>slabo samopodobo, občutke manjvrednosti in pomanjkanje smisla v življenju,</li>
+                        <li>obsesivno-kompulzivne motnje, motnje identitete in druge psihosomatske težave.</li>
                     </ul>
                     <p class="is-italic has-text-warning has-text-centered mt-6">
                         "Najdaljša je pot, ki te pripelje najbližje k sebi,<br>in najtežja je vaja, ki rodi najpreprostejši napev."<br><br>— Rabindranath Tagore
@@ -59,7 +59,7 @@
         </div>
     </section>    
     <section class="section">
-        <div class="container">
+        <div class="container my-5">
             <div class="columns is-vcentered">
                 <div class="column is-golden-main is-pulled-right">
                     <div class="block">
