@@ -108,14 +108,31 @@
             <h3 class="title is-5 has-text-primary">Ali obstajajo trdni empirični dokazi, da je psihodinamska psihoterapija učinkovita?</h3>
             <div>
                 Psihodinamska psihoterapija je ena najdlje razvijanih oblik psihoterapije, z več kot stoletno tradicijo teoretskega in kliničnega raziskovanja. Zaradi njenega utemeljenega pristopa jo številni mednarodni zdravstveni sistemi in zavarovalnice priznavajo kot ustrezno obliko psihoterapevtske obravnave, ki je v mnogih državah del programov zdravstvenega zavarovanja. Spodaj je nekaj znanstvenih (meta)študij (v angleščini), ki potrjujejo njeno učinkovitost.
-                <br>
+            </div>
+            <div class="mt-5">
                 <ul>
-                    <li><a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC10168167/' target='_blank' rel='noopener noreferrer'>The status of psychodynamic psychotherapy as an empirically supported treatment for common mental disorders – an umbrella review based on updated criteria</a></li>
-                    <li><a href='https://www.tandfonline.com/doi/full/10.1080/02668734.2023.2197617?utm_source=researchgate.net&utm_medium=article' target='_blank' rel='noopener noreferrer'>A comprehensive overview of randomized controlled trials of psychodynamic psychotherapies</a>
+                    <li>
+                        <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10168167/" target="_blank" rel="noopener noreferrer">
+                            Leichsenring, F., Abbass, A., Heim, N., Keefe, J. R., Kisely, S., Luyten, P., Rabung, S., &amp; Steinert, C. (2023). The status of psychodynamic psychotherapy as an empirically supported treatment for common mental disorders: An umbrella review based on updated criteria. <i>World Psychiatry, 22</i>(2), 286–304.
+                        </a>
                     </li>
-                    <li><a href='https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128133736000040?via%3Dihub' target='_blank' rel='noopener noreferrer'>The efficacy of psychodynamic psychotherapy: an up-to-date review</a>
+
+                    <li>
+                        <a href="https://www.tandfonline.com/doi/full/10.1080/02668734.2023.2197617" target="_blank" rel="noopener noreferrer">
+                            Lilliengren, P. (2023). A comprehensive overview of randomized controlled trials of psychodynamic psychotherapies. <i>Psychoanalytic Psychotherapy, 37</i>(2), 117–140.
+                        </a>
                     </li>
-                    <li><a href='https://www.apa.org/pubs/journals/releases/amp-65-2-98.pdf' target='_blank' rel='noopener noreferrer'>The Efficacy of Psychodynamic Psychotherapy</a>
+
+                    <li>
+                        <a href="https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780128133736000040" target="_blank" rel="noopener noreferrer">
+                            Leichsenring, F., &amp; Steinert, C. (2019). The efficacy of psychodynamic psychotherapy: An up-to-date review. In D. Kealy &amp; J. S. Ogrodniczuk (Eds.), <i>Contemporary psychodynamic psychotherapy</i> (pp. 49–74). Academic Press.
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="https://www.apa.org/pubs/journals/releases/amp-65-2-98.pdf" target="_blank" rel="noopener noreferrer">
+                            Shedler, J. (2010). The efficacy of psychodynamic psychotherapy. <i>American Psychologist, 65</i>(2), 98–109.
+                        </a>
                     </li>
                 </ul>
             </div>
