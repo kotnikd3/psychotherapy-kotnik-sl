@@ -5,7 +5,7 @@
                 <div class="column is-golden-main content">
                     <h3 class="title is-5 has-text-primary">Kaj je psihodinamska psihoterapija?</h3>
                     <div class="block">
-                        Psihodinamska psihoterapija je <b>zdravljenje s pogovorom</b>, ki temelji na ideji, da lahko nezavedne misli in občutki povzročajo težave, kot so anksioznost, depresija, slaba samopodoba in težave v odnosih.
+                        Psihodinamska psihoterapija je <b>zdravljenje s pogovorom</b> in <b>telesnim doživljanjem</b>, ki temelji na ideji, da lahko nezavedne misli in občutki ter telesno doživljanje vplivajo na težave, kot so anksioznost, depresija, slaba samopodoba in težave v odnosih. Pri tem vključuje tudi <b>telesno-orientiran pristop</b>, ki pomaga prepoznavati in raziskovati, kako se čustva, občutki in notranji konflikti izražajo v telesu.
                     </div>
                     <div class="block">
                         Eden od načinov kako se spoprijemamo z bolečimi ali težkimi mislimi in občutki je, da o njih ne razmišljamo, da jih ignoriramo — torej da jih potisnemo v <strong>nezavedno</strong>. Toda tudi če o njih ne razmišljamo, nezavedne misli in občutki še vedno vplivajo na to, kako mislimo, čutimo in se vedemo. Na primer, morda vam je težko čutiti jezo do nekoga, ki ga imate radi, saj menite, da tega ne bi smeli čutiti. Kljub temu pa lahko ta občutja še naprej vplivajo na vaš odnos. Psihodinamska psihoterapija omogoča prostor za razvoj novih, bolj zdravih načinov soočanja z omenjenimi težavami.

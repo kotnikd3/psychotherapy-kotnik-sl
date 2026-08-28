@@ -15,7 +15,7 @@
         <div class="container my-5">
             <h3 class="title is-4 has-text-primary">Dobrodošli!</h3>
             <p>
-                Moje ime je Denis in nudim <b>psihodinamsko psihoterapijo</b> online in v Trebnjem. V proces vključujem tudi telesne tehnike, saj so čustva in impulzi vedno prisotni tudi v telesu. Kombinacija psihoanalitičnega razumevanja in telesnega dela omogoča, da so spremembe trajne in da se zgodijo tukaj in zdaj — v varnem, sprejemajočem odnosu.
+                Moje ime je Denis in nudim <b>psihodinamsko psihoterapijo</b> online in v Trebnjem. V proces vključujem tudi <b>telesne tehnike</b>, saj so čustva in impulzi vedno prisotni tudi v telesu. Kombinacija psihoanalitičnega razumevanja in telesnega dela omogoča, da so spremembe trajne in da se zgodijo tukaj in zdaj — v varnem, sprejemajočem odnosu.
                 <br><br>
                 Psihodinamska psihoterapija je namenjena vsem, ki se počutijo ujete, preobremenjene ali odtujene — ne glede na to, ali je to vaš prvi stik s psihoterapijo ali pa ste že imeli izkušnje z njo. Ljudje pogosto prihajajo s temami, kot so tesnoba, potrtost, notranja napetost, nizka samopodoba, težave v odnosih ali občutek, da nekaj ni v redu.
                 <br><br>
