@@ -1,0 +1,17 @@
+# Psihoterapija Denis Kotnik
+
+> Slovenska spletna stran Denisa Kotnika o psihodinamski psihoterapiji, telesnih tehnikah ter možnostih psihoterapije v Trebnjem in online.
+
+Spletna stran predstavlja psihoterapevtsko delo Denisa Kotnika, področja obravnave, njegov strokovni profil in odgovore na pogosta vprašanja o psihodinamski psihoterapiji. Za naročanje ali dodatne informacije je na voljo e-poštni naslov info@psihoterapija-kotnik.si.
+
+## Glavne strani
+
+- [Psihoterapija Denis Kotnik](https://psihoterapija-kotnik.si/): Predstavitev psihodinamske psihoterapije, področij obravnave, terapevta in kontaktnih možnosti.
+- [O psihoterapiji](https://psihoterapija-kotnik.si/o-psihoterapiji): Razlaga psihodinamske psihoterapije, poteka procesa, pogostih vprašanj in empiričnih dokazov o učinkovitosti.
+
+## Dodatno
+
+- [English website](https://psychotherapy-kotnik.com/): English-language version of the website.
+- [Sitemap](https://psihoterapija-kotnik.si/sitemap.xml): Seznam javnih strani spletnega mesta.
+
+Informacije na spletni strani so splošne narave in niso nadomestilo za individualno strokovno oceno, diagnozo ali nujno pomoč.
