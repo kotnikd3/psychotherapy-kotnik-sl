@@ -14,9 +14,9 @@
 
         <section class="section">
             <div class="container my-5">
-                <h3 class="title is-4 has-text-primary">Dobrodošli!</h3>
+                <h2 class="title is-4 has-text-primary">Dobrodošli!</h2>
                 <p>
-                    Moje ime je Denis in nudim <b>psihodinamsko psihoterapijo</b> online in v Trebnjem. V proces vključujem tudi <b>telesne tehnike</b>, saj so čustva in impulzi vedno prisotni tudi v telesu. Kombinacija psihoanalitičnega razumevanja in telesnega dela omogoča, da so spremembe trajne in da se zgodijo tukaj in zdaj — v varnem, sprejemajočem odnosu.
+                    Moje ime je Denis Kotnik. Sem <strong>specializant psihodinamske psihoterapije</strong> in delujem pod redno supervizijo. Nudim <b>psihodinamsko psihoterapijo</b> online in v Trebnjem. V proces vključujem tudi <b>telesne tehnike</b>, saj so čustva in impulzi vedno prisotni tudi v telesu. S povezovanjem psihoanalitičnega razumevanja in telesnega dela lahko raziskujemo vaše doživljanje tukaj in zdaj ter možnosti za spremembe v varnem, sprejemajočem odnosu. Potek in izidi psihoterapije so pri vsakem posamezniku različni.
                     <br><br>
                     Psihodinamska psihoterapija je namenjena vsem, ki se počutijo ujete, preobremenjene ali odtujene — ne glede na to, ali je to vaš prvi stik s psihoterapijo ali pa ste že imeli izkušnje z njo. Ljudje pogosto prihajajo s temami, kot so tesnoba, potrtost, notranja napetost, nizka samopodoba, težave v odnosih ali občutek, da nekaj ni v redu.
                     <br><br>
@@ -37,7 +37,7 @@
                         </figure>
                     </div>
                     <div class="column is-golden-main content">
-                        <h4 class="title is-5 has-text-primary">V varnem terapevtskem prostoru lahko skupaj razrešujeva:</h4>
+                        <h2 class="title is-5 has-text-primary">Teme, ki jih lahko raziskujeva v terapevtskem procesu:</h2>
                         <ul>
                             <li>depresijo, anksioznost in panične napade,</li>
                             <li>pretirano zaskrbljenost, preobremenjenost in vztrajno tesnobo,</li>
@@ -64,18 +64,31 @@
                 <div class="columns is-vcentered">
                     <div class="column is-golden-main is-pulled-right">
                         <div class="block">
-                            <h3 class="title is-5 has-text-primary">O meni</h3>
+                            <h2 class="title is-5 has-text-primary">O meni</h2>
                             <p>
                                 Moje ime je Denis Kotnik. Sem specializant psihodinamske psihoterapije in delujem pod redno supervizijo psihodinamskega in psihoanalitičnega psihoterapevta ter psihoanalitika.
                             </p>
                         </div>
 
                         <div class="block">
-                            <p>Sem član Evropskega združenja psihoanalitičnih pristopov Slovenija (EZPPS) in se izobražujem z namenom pridobitve diplom pri Evropski konfederaciji psihoanalitičnih in psihodinamskih psihoterapij (ECPPP) ter Evropski krovni zvezi za psihoterapijo (EAP).<br><br>Izobraževanje opravljam na Inštitutu za psihodinamsko psihoterapijo v Ljubljani, kjer sem v okviru štiriletnega študija pridobil obsežno teoretično znanje s področja psihodinamske in telesno-orientirane psihoterapije.<br><br>Pomemben del mojega strokovnega razvoja predstavlja tudi osebna izkušnja: več kot 250 ur individualne psihodinamske psihoterapije z izbrano psihodinamsko psihoterapevtko in več kot 360 ur izkušnje v zaprti psihodinamski skupini (triletni proces) pod vodstvom psihodinamskega psihoterapevta.</p>
+                            <h3 class="title is-6 has-text-primary">Izobraževanje in strokovno članstvo</h3>
+                            <p>Sem član <a href="https://www.ezpps.si/clani/denis-kotnik" target="_blank" rel="noopener noreferrer">Evropskega združenja psihoanalitičnih pristopov Slovenija (EZPPS)</a>. Na povezavi je objavljen moj strokovni profil.</p>
+                            <p class="mt-3">Izobraževanje opravljam na <a href="https://www.psihodinamska-psihoterapija.org/" target="_blank" rel="noopener noreferrer">Inštitutu za psihodinamsko psihoterapijo v Ljubljani</a>, kjer sem v okviru štiriletnega študija pridobil obsežno teoretično znanje s področja psihodinamske in telesno-orientirane psihoterapije.</p>
+                            <p class="mt-3">Moje izobraževanje poteka z namenom pridobitve diplom pri <a href="https://ecpp.ngo/" target="_blank" rel="noopener noreferrer">Evropski konfederaciji psihoanalitičnih in psihodinamskih psihoterapij (ECPPP)</a> ter <a href="https://www.europsyche.org/" target="_blank" rel="noopener noreferrer">Evropski krovni zvezi za psihoterapijo (EAP)</a>. Ti diplomi še nista pridobljeni.</p>
+                        </div>
+
+                        <div class="block">
+                            <h3 class="title is-6 has-text-primary">Osebna izkušnja in strokovni razvoj</h3>
+                            <p>Pomemben del mojega strokovnega razvoja predstavlja tudi osebna izkušnja: več kot 250 ur individualne psihodinamske psihoterapije (1x tedensko) z izbrano psihodinamsko psihoterapevtko in več kot 600 ur izkušnje v zaprti psihodinamski skupini (triletni proces) pod vodstvom psihodinamskega psihoterapevta.</p>
                         </div>
 
                         <div class="block">
                             <p>Moje zanimanje je že od nekdaj usmerjeno v tisto, kar ni takoj vidno — v vprašanja, kako ljudje razmišljamo, zakaj se vedemo, kot se vedemo, in kako se oblikujejo notranji konflikti. Po zaključku magistrskega študija na Univerzi v Ljubljani me je pot vodila v psihoanalizo, filozofijo in razmišljanje avtorjev, kot so Sokrat, René Descartes, Karl Marx, Sigmund Freud, Jacques Lacan, Alain Badiou in drugih.</p>
+                        </div>
+
+                        <div class="block">
+                            <h3 class="title is-6 has-text-primary">Srečanja in kontakt</h3>
+                            <p>Srečanja potekajo v Trebnjem in online. Za informacije o ceni, trajanju srečanj in prostih terminih mi pišite na <a href="mailto:info@psihoterapija-kotnik.si">info@psihoterapija-kotnik.si</a> ali uporabite spodnji kontaktni obrazec.</p>
                         </div>
                     </div>
                     <div class="column is-golden-side has-text-centered">

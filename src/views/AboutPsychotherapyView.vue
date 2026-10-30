@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="columns is-vcentered">
                     <div class="column is-golden-main content">
-                        <h3 class="title is-5 has-text-primary">Kaj je psihodinamska psihoterapija?</h3>
+                        <h1 class="title is-5 has-text-primary">Kaj je psihodinamska psihoterapija?</h1>
                         <div class="block">
                             Psihodinamska psihoterapija je <b>zdravljenje s pogovorom</b> in <b>telesnim doživljanjem</b>, ki temelji na ideji, da lahko nezavedne misli in občutki ter telesno doživljanje vplivajo na težave, kot so anksioznost, depresija, slaba samopodoba in težave v odnosih. Pri tem vključuje tudi <b>telesno-orientiran pristop</b>, ki pomaga prepoznavati in raziskovati, kako se čustva, občutki in notranji konflikti izražajo v telesu.
                         </div>
@@ -21,7 +21,7 @@
 
         <section class="section">
             <div class="container content">
-                <h3 class="title is-5 has-text-primary">V psihodinamski psihoterapiji boste za ozaveščanje nezavednih vsebin med drugim počeli:</h3>
+                <h2 class="title is-5 has-text-primary">V psihodinamski psihoterapiji boste za ozaveščanje nezavednih vsebin med drugim počeli:</h2>
                 <div>
                     <ul>
                         <li>
@@ -51,19 +51,19 @@
                 <div class="columns is-vcentered">
                     <div class="column is-golden-main content">
                         <div class="block">
-                            <h3 class="title is-5 has-text-warning">Zakaj se imenuje psihodinamska psihoterapija?</h3>
+                            <h2 class="title is-5 has-text-warning">Zakaj se imenuje psihodinamska psihoterapija?</h2>
                             <p>»Psiha« pomeni um oziroma duševnost, »dinamska« pa se nanaša na gibajoče se sile. Vaše misli in občutke lahko konceptualiziramo kot duševne sile. Nenehno so v gibanju in se pogosto med seboj spopadajo. Učenje o teh silah in konfliktih vam lahko pomaga razumeti, kako razmišljate, čutite in se vedete, kar vpliva na vaše doživljanje in vedenje.</p>
                         </div>
                         <div class="block">
-                            <h3 class="title is-5 has-text-primary">Kako dolgo traja proces?</h3>
+                            <h2 class="title is-5 has-text-primary">Kako dolgo traja proces?</h2>
                             <p>Psihodinamska psihoterapija je lahko kratkoročna pri specifičnih težavah, kot so panični napadi, ali dolgoročna pri težavah s samopodobo, odnosi in spoprijemanjem s stresom. Za razvoj teh vzorcev ste potrebovali dolgo časa, zato lahko tudi sprememba tega terja čas. Dolgoročna psihoterapija lahko traja leto ali dlje. Gre za »odprto« obliko terapije, kar pomeni, da traja toliko časa, kolikor je potrebno za dosego ciljev, ki jih določita s terapevtom. Z dolgoročnimi cilji lahko skupaj delata hkrati tudi na kratkoročnih ciljih, npr. obvladovanju stresa v vsakdanjem življenju.</p>
                         </div>
                         <div class="block">
-                            <h3 class="title is-5 has-text-primary">Zakaj moram prihajati vsak teden?</h3>
+                            <h2 class="title is-5 has-text-primary">Zakaj moram prihajati vsak teden?</h2>
                             <p>Redno prihajanje na psihoterapijo vam bo pomagalo pri ozaveščanju nezavednih misli in občutkov, ki ležijo v ozadju številnih težav. Če prihajate redkeje, boste verjetno večino časa porabili le za poročanje o tem, kaj se je zgodilo od zadnje seanse.</p>
                         </div>
                         <div class="block">
-                            <h3 class="title is-5 has-text-warning">Bo moj terapevt govoril?</h3>
+                            <h2 class="title is-5 has-text-warning">Bo moj terapevt govoril?</h2>
                             <p>Seveda. Vsega dela ne boste opravili sami, pa tudi vaš terapevt ne bo naredil vsega namesto vas. Z njim ali njo bosta vzpostavila odnos. Terapevt vas lahko posluša, si zapisuje, postavlja vprašanja ter vam pomaga opaziti nezavedne misli, občutke in problematične vzorce.</p>
                         </div>
                     </div>
@@ -78,11 +78,11 @@
             <div class="container">
                 <div class="columns">
                     <div class="column is-golden-side">
-                        <h3 class="title is-5 has-text-primary">Naj res pripovedujem o vsem, kar mi pride na misel?</h3>
+                        <h2 class="title is-5 has-text-primary">Naj res pripovedujem o vsem, kar mi pride na misel?</h2>
                         <p>Kaj če ni »relevantno«? Vabljeni ste, da poveste vse, kar vam pride na misel in da ne poskušate presojati, ali je to »relevantno« ali ne. Tista »nepomembna« misel vas lahko pripelje do pomembne misli ali občutka, za katerega niste niti vedeli, da ga imate.</p>
                     </div>
                     <div class="column is-golden-main">
-                        <h3 class="title is-5 has-text-warning">Počutim se nelagodno, če pomislim, da bi terapevtu pripovedoval o svojih negativnih občutkih do njega.</h3>
+                        <h2 class="title is-5 has-text-warning">Počutim se nelagodno, če pomislim, da bi terapevtu pripovedoval o svojih negativnih občutkih do njega.</h2>
                         <p>Res gre za nenavadno početje, vendar je to lahko način, da se naučite o svojih odnosih. Na primer, raziskovanje, zakaj vas terapevt razjezi, vam lahko pomaga razumeti, zakaj vas razjezijo tudi drugi ljudje. Prav tako vam lahko pomaga razviti nove in bolj zdrave načine, kako vzpostavljate odnose z ljudmi v vašem življenju.</p>
                     </div>
                 </div>
@@ -93,11 +93,11 @@
             <div class="container">
                 <div class="columns">
                     <div class="column is-golden-main">
-                        <h3 class="title is-5 has-text-warning">Kako to, da moj terapevt tekom psihoterapevtskega procesa izve veliko o meni, jaz pa o njem zelo malo?</h3>
+                        <h2 class="title is-5 has-text-warning">Kako to, da moj terapevt tekom psihoterapevtskega procesa izve veliko o meni, jaz pa o njem zelo malo?</h2>
                         <p>Morda se vam intuitivno zdi, da bi bilo koristno veliko vedeti o zasebnem življenju svojega terapevta, vendar je v resnici ravno nasprotno. To, da o terapevtu ne veste dosti, vam omogoča dodaten simbolni prostor, v katerem ste vi zares lahko vi. Na primer, če ste zelo jezni na svoje starše zaradi ločitve, nato pa izveste, da je tudi vaš terapevt ločen, vam to lahko oteži, da svobodno govorite o svojih starših. Če vas to, da terapevta ne poznate tako, kot si želite, frustrira, ste vabljeni, da o tem govorite s terapevtom.</p>
                     </div>
                     <div class="column is-golden-side">
-                        <h3 class="title is-5 has-text-primary">Ali sem lahko hkrati v psihoterapevtskem procesu in jemljem zdravila, ki mi jih je predpisal psihiater?</h3>
+                        <h2 class="title is-5 has-text-primary">Ali sem lahko hkrati v psihoterapevtskem procesu in jemljem zdravila, ki mi jih je predpisal psihiater?</h2>
                         <p>Lahko. Če vi in vaš psihiater menita, da bi vam jemanje zdravil koristilo, lahko počnete oboje hkrati. Če ste depresivni ali anksiozni, vam lahko zdravila pomagajo pri simptomih in hkrati podpirajo psihoterapijo. Če jemljete zdravila v procesu psihoterapije, vam lahko pogovor o tem s psihoterapevtom ali psihiatrom pomaga bolje razumeti svoja čustva glede anksioznosti ali depresije.</p>
                     </div>
                 </div>
@@ -106,7 +106,7 @@
 
         <section class="section">
             <div class="container content">
-                <h3 class="title is-5 has-text-primary">Ali obstajajo trdni empirični dokazi, da je psihodinamska psihoterapija učinkovita?</h3>
+                <h2 class="title is-5 has-text-primary">Ali obstajajo trdni empirični dokazi, da je psihodinamska psihoterapija učinkovita?</h2>
                 <div>
                     Psihodinamska psihoterapija je ena najdlje razvijanih oblik psihoterapije, z več kot stoletno tradicijo teoretskega in kliničnega raziskovanja. Zaradi njenega utemeljenega pristopa jo številni mednarodni zdravstveni sistemi in zavarovalnice priznavajo kot ustrezno obliko psihoterapevtske obravnave, ki je v mnogih državah del programov zdravstvenega zavarovanja. Spodaj je nekaj znanstvenih (meta)študij (v angleščini), ki potrjujejo njeno učinkovitost.
                 </div>

@@ -10,12 +10,22 @@ export default function createAppRouter(history = createWebHistory(import.meta.e
     {
         path: '/',
         name: 'home',
-        component: HomeView
+        component: HomeView,
+        meta: {
+          englishPath: '/',
+          title: 'Psihoterapija Denis Kotnik',
+          description: 'Nudim psihodinamsko psihoterapijo v varnem prostoru, kjer lahko raziskujemo nezavedne vzorce in osebno stisko ter razvijamo globlje razumevanje sebe.',
+        }
     },
     {
         path: '/o-psihoterapiji',
         name: 'about_psychotherapy',
-        component: AboutPsychotherapyView
+        component: AboutPsychotherapyView,
+        meta: {
+          englishPath: '/about-psychotherapy',
+          title: 'O psihoterapiji | Psihoterapija Denis Kotnik',
+          description: 'Spoznajte psihodinamsko psihoterapijo: kako poteka, kako dolgo traja in kako pomaga pri raziskovanju nezavednih vzorcev, občutkov in odnosov.',
+        }
     }
   ],
   scrollBehavior(to, from, savedPosition) {
