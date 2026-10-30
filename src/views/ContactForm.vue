@@ -1,57 +1,59 @@
 <template>
-    <!-- Contact form -->
-    <form ref="form" @submit.prevent="sendEmail">
-        <!-- Name -->
-        <div class="field">
-            <label class="label">Ime</label>
-            <div class="control">
-                <input class="input" type="text" placeholder="Ime" v-model="form.name" required>
+    <div>
+        <!-- Contact form -->
+        <form ref="form" @submit.prevent="sendEmail">
+            <!-- Name -->
+            <div class="field">
+                <label class="label">Ime</label>
+                <div class="control">
+                    <input class="input" type="text" placeholder="Ime" v-model="form.name" required>
+                </div>
             </div>
-        </div>
-        <!-- Email -->
-        <div class="field">
-            <label class="label">E-pošta</label>
-            <div class="control has-icons-left">
-                <input class="input" type="email" placeholder="E-pošta" v-model="form.email" required>
-                <span class="icon is-small is-left">
-                    <font-awesome-icon icon="fa-regular fa-envelope" />
-                </span>
+            <!-- Email -->
+            <div class="field">
+                <label class="label">E-pošta</label>
+                <div class="control has-icons-left">
+                    <input class="input" type="email" placeholder="E-pošta" v-model="form.email" required>
+                    <span class="icon is-small is-left">
+                        <font-awesome-icon icon="fa-regular fa-envelope" />
+                    </span>
+                </div>
             </div>
-        </div>
-        <!-- Phone -->
-        <div class="field">
-            <label class="label">Telefon</label>
-            <div class="control has-icons-left">
-                <input class="input" type="tel" placeholder="Telefon (ni obvezno)" v-model="form.phone">
-                <span class="icon is-small is-left">
-                    <font-awesome-icon icon="fa-solid fa-phone" />
-                </span>
+            <!-- Phone -->
+            <div class="field">
+                <label class="label">Telefon</label>
+                <div class="control has-icons-left">
+                    <input class="input" type="tel" placeholder="Telefon (ni obvezno)" v-model="form.phone">
+                    <span class="icon is-small is-left">
+                        <font-awesome-icon icon="fa-solid fa-phone" />
+                    </span>
+                </div>
             </div>
-        </div>
-        <!-- Message -->
-        <div class="field">
-            <label class="label">Sporočilo</label>
-            <div class="control">
-                <textarea class="textarea" placeholder="Sporočilo" rows="5" v-model="form.message" required></textarea>
+            <!-- Message -->
+            <div class="field">
+                <label class="label">Sporočilo</label>
+                <div class="control">
+                    <textarea class="textarea" placeholder="Sporočilo" rows="5" v-model="form.message" required></textarea>
+                </div>
             </div>
-        </div>
-        <!-- Button -->
-        <div class="field has-text-centered">
-            <div class="control">
-                <button :class="['button is-primary is-outlined', { 'is-loading' : isLoading }]">Pošlji</button>
+            <!-- Button -->
+            <div class="field has-text-centered">
+                <div class="control">
+                    <button :class="['button is-primary is-outlined', { 'is-loading' : isLoading }]">Pošlji</button>
+                </div>
             </div>
-        </div>
-        <!-- Notification Success -->
-        <div v-if="notificationSuccess.show" class="notification is-success is-light">
-            <button class="delete" @click="notificationSuccess.show = false"></button>
-            <p v-text="notificationSuccess.message"></p>
-        </div>
-        <!-- Notification Error -->
-        <div v-if="notificationError.show" class="notification is-danger is-light">
-            <button class="delete" @click="notificationError.show = false"></button>
-            <p v-text="notificationError.message"></p>
-        </div>
-    </form>
+            <!-- Notification Success -->
+            <div v-if="notificationSuccess.show" class="notification is-success is-light">
+                <button class="delete" @click="notificationSuccess.show = false"></button>
+                <p v-text="notificationSuccess.message"></p>
+            </div>
+            <!-- Notification Error -->
+            <div v-if="notificationError.show" class="notification is-danger is-light">
+                <button class="delete" @click="notificationError.show = false"></button>
+                <p v-text="notificationError.message"></p>
+            </div>
+        </form>
+    </div>
 </template>
   
 <script>

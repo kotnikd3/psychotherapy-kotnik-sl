@@ -19,6 +19,8 @@ npm run dev
 
 ```sh
 npm run build
+# To preview the production build locally
+npm run preview
 ```
 
 ### Lint with [ESLint](https://eslint.org/)

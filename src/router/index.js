@@ -3,8 +3,9 @@ import HomeView from '@/views/HomeView.vue'
 import AboutPsychotherapyView from '@/views/AboutPsychotherapyView.vue'
 
 
-const router = createRouter({
-  history: createWebHistory(import.meta.env.BASE_URL),
+export default function createAppRouter(history = createWebHistory(import.meta.env.BASE_URL)) {
+  return createRouter({
+  history,
   routes: [
     {
         path: '/',
@@ -25,6 +26,5 @@ const router = createRouter({
         return { top: 0 }; // Scroll to top of the page
     }
   }
-})
-
-export default router
+  })
+}
