@@ -151,7 +151,7 @@
             </div>
 
             <p class="has-text-centered has-text-primary is-size-7 is-italic">
-                Zgornji umetnini: Calm Sea (Ivan Aivazovsky) in Wanderer above the Sea of Fog (Caspar David Friedrich)
+                Avtorji in naslovi umetnin: Calm Sea – Ivan Aivazovsky (1876); Wanderer above the Sea of Fog – Caspar David Friedrich (1818); Bori Zupančič (2025).
             </p>
             
             <div class="has-text-centered has-text-primary mt-3">
